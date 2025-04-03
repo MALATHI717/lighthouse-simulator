@@ -87,8 +87,9 @@ export default function LightScoreChecker() {
     }
   };
 
+
   return (
-    <div className="p-4 max-w-md mx-auto bg-white shadow-md rounded-lg text-center">
+    <div className=" max-w-md mx-auto bg-white shadow-md rounded-lg text-center">
       <h2 className="text-xl font-bold mb-4">Lighthouse Simulator</h2>
       <input
         type="text"
